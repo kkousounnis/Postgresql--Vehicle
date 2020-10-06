@@ -4,6 +4,8 @@
 
 ### Summary of Database
 
+**For detailed analyze of Database open word document Ergasia-2017-18_BaseisDedomenwn**
+
 ![image](https://user-images.githubusercontent.com/39504405/95201398-90ea1880-07e8-11eb-8644-044a3413604d.png)
  
 We use fake data that we have created from https://mockaroo.com
