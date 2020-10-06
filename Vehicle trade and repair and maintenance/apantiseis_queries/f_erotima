@@ -1,0 +1,7 @@
+select count(repair_cars18.id_car) ,repair_cars18.id_car,cars.model
+from (select repairs.id_car ,repairs.date_repair_starts 	from repairs where repairs.date_repair_starts>'2018-1-1'and repairs.date_repair_starts<'2018-12-31')as repair_cars18
+inner join cars
+on repair_cars18.id_car=cars.id_car
+group by   repair_cars18.id_car,cars.model
+having count(repair_cars18.id_car)>1
+ 

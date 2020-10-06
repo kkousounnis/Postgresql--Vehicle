@@ -1,0 +1,82 @@
+create table Company (
+	AFM CHAR(8),
+	Fullname VARCHAR(25),
+	Email varchar(50),
+	primary key (AFM)
+);
+
+create table Repairs(
+	id_tech char(4),--T001
+	id_car char(6),--S18001
+	cost_repair int,
+	date_repair_starts date,
+	primary key (id_car,date_repair_starts)
+);
+create table Date_ends(
+	id_car char(6),--S18001
+	date_repair_starts date,
+	date_repair_ends date,
+	primary key (id_car,date_repair_starts),
+	foreign key(id_car,date_repair_starts)references Repairs
+);
+
+create table Cars(
+	id_car char(5),--C001
+	Model varchar(45),
+	creation_date date,
+	car_type_used_or_new varchar(35),--newnotselled newselled used
+	primary key (id_car)
+ 
+);
+create table Sells(
+	id_seller char(4),--S001
+	id_car char(5),--C0001
+	car_value int,
+	car_sold int,
+	car_transition_date date,
+	primary key(id_car),
+	foreign key (id_car)references cars
+);
+
+create table Technicians(
+	AFM CHAR(8),
+	id_tech char(4),--T001
+	primary key(AFM,id_tech),
+	foreign key (AFM) references Company
+	);
+
+create table Sellers(
+	AFM CHAR(8),
+	id_seller char(4),--S001
+	primary key(AFM,id_seller),
+	foreign key (AFM) references company
+);
+create table Customers(
+	AFM CHAR(8),
+	phone_number bigint,
+	primary key(AFM),
+	foreign key (AFM) references company
+);
+
+create table Extracarinfo(
+	Model varchar(45),
+	Manufacturer varchar(30),
+	primary key (Model)
+);
+create table Cartypenew(
+	id_car char(6),
+	AFM CHAR(8),
+	primary key(id_car,AFM),
+	foreign key (id_car)references Cars,
+	foreign key (AFM)references company
+);
+create table CartypeUsed(
+	id_car char(6),
+	Licenceplate char(8),
+	primary key(id_car,Licenceplate),
+	foreign key (id_car)references Cars
+);
+
+
+
+ 

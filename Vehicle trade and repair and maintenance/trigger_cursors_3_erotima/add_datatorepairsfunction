@@ -1,0 +1,13 @@
+create or replace  function add_datatorepairs()
+returns trigger as
+$BODY$
+begin
+if new.id_car==null then 
+insert into repairs values (new.id_tech,new.id_car,new.cost_repair,new.date_repair_starts);
+insert into cars values (new.id_car,new.model,new.creation_date,new.car_type_used_or_new);
+end if;
+return new;
+end;
+$BODY$
+language plpgsql;
+

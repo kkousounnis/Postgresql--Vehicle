@@ -1,0 +1,10 @@
+select sum(car_sold-car_value) ,sells.id_seller,sellers.afm,company.Fullname
+from sells 
+inner join sellers
+on sells.id_seller=sellers.id_seller
+inner join company
+on sellers.afm=company.afm
+group by sells.id_seller,sellers.afm,company.Fullname
+having sum(car_sold-car_value)in(
+select max(difference)
+from(select id_seller,sum(car_sold-car_value)as difference	from sells group by id_seller)as temporaryTable)

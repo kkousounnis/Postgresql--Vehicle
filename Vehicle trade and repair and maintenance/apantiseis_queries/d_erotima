@@ -1,0 +1,3 @@
+select id_car,repairs.date_repair_starts 
+from repairs
+where  repairs.date_repair_starts not in (select date_ends.date_repair_starts from date_ends )

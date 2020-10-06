@@ -1,0 +1,4 @@
+select date_trunc('month',date_repair_starts),avg(cost_repair)as Avg_earnings_bymonth
+from repairs
+group by date_trunc('month', date_repair_starts)
+order by  date_trunc('month', date_repair_starts)

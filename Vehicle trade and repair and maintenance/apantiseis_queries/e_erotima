@@ -1,0 +1,9 @@
+select technicians.id_tech ,repairs.date_repair_starts,repairs.id_car,repairs.cost_repair,technicians.afm,company.fullname
+from repairs
+inner join technicians
+on repairs.id_tech=technicians.id_tech
+inner join company
+on technicians.afm=company.afm
+where repairs.date_repair_starts>='2018-6-1' and repairs.date_repair_starts<='2018-6-30'
+order by repairs.id_tech
+ 

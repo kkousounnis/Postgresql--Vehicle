@@ -1,0 +1,11 @@
+copy company from 'D:\Company.csv' Delimiter ','CSV HEADER;
+copy technicians from 'D:\Technicians.csv' Delimiter ','CSV HEADER;
+copy sellers from 'D:\Sellers.csv' Delimiter ','CSV HEADER;
+copy customers from 'D:\Customers.csv' Delimiter ','CSV HEADER;
+copy repairs from 'D:\Repairs.csv' Delimiter ','CSV HEADER;
+copy Date_ends from 'D:\Date_ends.csv' Delimiter ','CSV HEADER;
+copy cars from 'D:\Cars.csv' Delimiter ','CSV HEADER;
+copy sells from 'D:\Sells.csv' Delimiter ','CSV HEADER;
+copy extracarinfo from 'D:\Extracarinfo.csv' Delimiter ','CSV HEADER;
+copy cartypenew from 'D:\Cartypenew.csv' Delimiter ','CSV HEADER;
+copy cartypeused from 'D:\Cartypeused.csv' Delimiter ','CSV HEADER;

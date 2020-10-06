@@ -1,0 +1,11 @@
+select repairs.id_car,sum(cost_repair),cars.model
+from repairs 
+inner join cars
+on repairs.id_car=cars.id_car
+group by repairs.id_car,cars.model
+having sum(cost_repair) in(
+select max(sum_cost)
+from(select id_car,sum(cost_repair)as sum_cost from repairs group by id_car)as temporaryTable)
+ 
+
+ --http://sqlfiddle.com/#!2/38e44/1

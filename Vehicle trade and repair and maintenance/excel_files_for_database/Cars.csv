@@ -1,0 +1,1000 @@
+﻿id_car,Model,creation_date,car_type_used_or_new
+C0000,Cirrus,2009-09-27,newselled
+C0001,Mulsanne,2009-02-05,newselled
+C0002,4000s Quattro,2009-05-07,newselled
+C0003,Sonata,2009-09-08,used
+C0004,M6,2009-03-23,newselled
+C0005,Tempest,2009-02-17,newselled
+C0006,tC,2009-09-03,newselled
+C0007,Expo,2009-12-03,newselled
+C0008,Tahoe,2009-05-28,newselled
+C0009,Durango,2009-12-17,used
+C0010,Bonneville,2009-09-17,newselled
+C0011,Montana,2009-11-08,newselled
+C0012,Cobalt,2009-07-24,newselled
+C0013,Camaro,2009-07-13,used
+C0014,Seville,2009-11-06,newselled
+C0015,XJ Series,2009-06-12,newselled
+C0016,GL-Class,2009-06-16,newselled
+C0017,Enclave,2009-04-24,newselled
+C0018,Hombre Space,2009-04-17,used
+C0019,HHR,2009-06-03,newselled
+C0020,Ram 1500,2009-04-19,newselled
+C0021,Caliber,2009-09-11,used
+C0022,98,2009-11-07,newselled
+C0023,Familia,2009-02-26,newselled
+C0024,E-Class,2009-06-08,newselled
+C0025,Stylus,2009-09-13,newselled
+C0026,Express 3500,2009-05-08,newselled
+C0027,Pajero,2009-02-21,used
+C0028,323,2009-01-04,newselled
+C0029,LeBaron,2009-08-22,newselled
+C0030,Panamera,2009-02-28,newselled
+C0031,E350,2009-07-11,newselled
+C0032,Seville,2009-09-17,newselled
+C0033,Prizm,2009-05-08,newselled
+C0034,Matrix,2009-01-26,newselled
+C0035,Thunderbird,2009-10-17,newselled
+C0036,Spectra,2009-03-20,newselled
+C0037,Rendezvous,2009-01-23,used
+C0038,Ram Van 1500,2009-10-09,newselled
+C0039,Mustang,2009-06-14,used
+C0040,Stylus,2009-04-11,newselled
+C0041,Carens,2009-06-05,used
+C0042,S-Class,2009-07-12,newselled
+C0043,Impreza WRX,2009-08-12,newselled
+C0044,6 Series,2009-08-02,newselled
+C0045,ZDX,2009-12-01,newselled
+C0046,Suburban 2500,2009-08-15,newselled
+C0047,Discovery,2009-05-05,newselled
+C0048,California,2009-07-25,newselled
+C0049,Taurus,2009-04-06,newselled
+C0050,XK Series,2009-08-26,newselled
+C0051,Xtra,2009-11-21,used
+C0052,Crossfire,2009-06-05,newselled
+C0053,944,2009-09-04,newselled
+C0054,SLX,2009-01-15,newselled
+C0055,Sprinter 2500,2009-04-20,newselled
+C0056,Edge,2009-08-19,newselled
+C0057,Silverado 3500,2009-11-25,newselled
+C0058,Ranger,2009-04-22,used
+C0059,Scirocco,2009-02-10,newselled
+C0060,Optima,2009-04-12,newselled
+C0061,S40,2009-12-14,used
+C0062,Park Avenue,2009-05-24,newselled
+C0063,Previa,2009-04-26,newselled
+C0064,Diamante,2009-10-09,newselled
+C0065,MX-5,2009-12-26,newselled
+C0066,B-Series,2009-07-22,newselled
+C0067,i-280,2009-02-22,newselled
+C0068,Yukon XL 2500,2009-05-22,newselled
+C0069,Navigator,2009-02-09,newselled
+C0070,Excursion,2009-01-28,newselled
+C0071,6 Series,2009-12-17,used
+C0072,Scirocco,2009-12-30,newselled
+C0073,Colt,2009-04-13,newselled
+C0074,9-7X,2009-08-25,newselled
+C0075,GS,2009-12-11,newselled
+C0076,Challenger,2009-06-06,newselled
+C0077,Dakota,2009-08-20,newselled
+C0078,CX,2009-11-09,newselled
+C0079,SLS AMG,2009-11-15,newselled
+C0080,Corvette,2009-08-24,newselled
+C0081,Camry Hybrid,2009-03-24,used
+C0082,Escalade,2009-11-13,newselled
+C0083,Enclave,2009-07-29,newselled
+C0084,Focus,2009-02-24,newselled
+C0085,Grand Prix,2009-06-21,newselled
+C0086,Highlander,2009-09-11,newselled
+C0087,Eldorado,2009-09-29,newselled
+C0088,MX-5,2009-11-26,newselled
+C0089,Corvette,2009-06-09,newselled
+C0090,Wrangler,2009-01-02,newselled
+C0091,A3,2009-12-23,newselled
+C0092,Silverado 3500,2009-04-23,newselled
+C0093,Accord Crosstour,2009-08-12,newselled
+C0094,V50,2009-11-28,newselled
+C0095,Taurus,2009-10-14,newselled
+C0096,GS,2009-08-02,newselled
+C0097,TSX,2009-05-27,newselled
+C0098,Baja,2009-05-21,newselled
+C0099,Mariner,2009-04-11,newselled
+C0100,911,2010-04-05,used
+C0101,Silverado 2500,2010-02-08,newselled
+C0102,Thunderbird,2010-12-09,newselled
+C0103,G,2010-04-26,used
+C0104,GL-Class,2010-10-30,newselled
+C0105,Grand Prix,2010-07-25,newselled
+C0106,Allroad,2010-01-23,newselled
+C0107,CL,2010-05-03,newselled
+C0108,Malibu,2010-12-29,newselled
+C0109,E-Class,2010-01-16,newselled
+C0110,Lancer,2010-07-02,newselled
+C0111,4000s,2010-03-07,newselled
+C0112,Express 3500,2010-09-29,newselled
+C0113,Spectra,2010-09-03,newselled
+C0114,ZX2,2010-03-15,newselled
+C0115,Grand Vitara,2010-03-21,used
+C0116,Jetta,2010-12-06,newselled
+C0117,5 Series,2010-07-06,newselled
+C0118,Century,2010-05-23,newselled
+C0119,Explorer,2010-08-22,newselled
+C0120,1500 Club Coupe,2010-11-30,newselled
+C0121,EX,2010-05-18,newselled
+C0122,Justy,2010-06-27,newselled
+C0123,Legacy,2010-12-29,newselled
+C0124,MX-6,2010-05-17,newselled
+C0125,GTI,2010-02-17,newselled
+C0126,Elise,2010-10-10,newselled
+C0127,G-Series G20,2010-07-13,newselled
+C0128,CL-Class,2010-02-21,newselled
+C0129,164,2010-04-16,newselled
+C0130,Vanquish S,2010-03-19,newselled
+C0131,Mazda6,2010-10-19,newselled
+C0132,Safari,2010-04-24,newselled
+C0133,J,2010-03-14,newselled
+C0134,Elantra,2010-03-06,newselled
+C0135,H3,2010-12-09,used
+C0136,Jetta,2010-11-28,newselled
+C0137,929,2010-02-17,newselled
+C0138,RX,2010-02-16,newselled
+C0139,Vanquish S,2010-09-20,newselled
+C0140,Grand Voyager,2010-08-19,newselled
+C0141,Axiom,2010-06-13,newselled
+C0142,Town & Country,2010-03-27,newselled
+C0143,Ram 3500 Club,2010-02-15,newselled
+C0144,Civic,2010-02-07,newselled
+C0145,E-Class,2010-12-14,newselled
+C0146,Truck,2010-11-24,newselled
+C0147,Impala,2010-04-16,newselled
+C0148,Suburban 1500,2010-12-07,newselled
+C0149,Mustang,2010-11-07,newselled
+C0150,Eclipse,2010-12-26,newselled
+C0151,Monte Carlo,2010-01-01,newselled
+C0152,Civic,2010-11-07,newselled
+C0153,S90,2010-12-08,newselled
+C0154,626,2010-04-03,newselled
+C0155,Enclave,2010-06-28,newselled
+C0156,Monte Carlo,2010-02-11,newselled
+C0157,RX,2010-07-19,newselled
+C0158,Yukon XL 2500,2010-05-12,newselled
+C0159,Gran Sport,2010-02-18,newselled
+C0160,Ram 2500,2010-09-05,newselled
+C0161,Soul,2010-01-15,newselled
+C0162,Esprit,2010-08-30,newselled
+C0163,GranTurismo,2010-05-04,newselled
+C0164,Mustang,2010-06-03,newselled
+C0165,Quantum,2010-06-21,newselled
+C0166,Skylark,2010-10-09,newselled
+C0167,Tempo,2010-08-12,newselled
+C0168,Yukon,2010-10-10,newselled
+C0169,Sportage,2010-08-18,newselled
+C0170,Ram 3500,2010-11-17,used
+C0171,Skyhawk,2010-01-09,newselled
+C0172,Ram Wagon B150,2010-11-29,newselled
+C0173,C-Class,2010-02-26,newselled
+C0174,Stratus,2010-04-14,newselled
+C0175,Corolla,2010-08-09,newselled
+C0176,XL-7,2010-05-04,newselled
+C0177,LeMans,2010-04-14,used
+C0178,F150,2010-01-17,newselled
+C0179,Escort,2010-03-30,used
+C0180,Alcyone SVX,2010-10-20,newselled
+C0181,S-Class,2010-10-10,newselled
+C0182,Grand Marquis,2010-12-18,used
+C0183,Mark VIII,2010-12-17,newselled
+C0184,Caprice,2010-06-06,newselled
+C0185,Galant,2010-12-06,newselled
+C0186,NV2500,2010-12-24,newselled
+C0187,Outlander,2010-12-08,newselled
+C0188,Bonneville,2010-03-11,newselled
+C0189,IS,2010-04-10,newselled
+C0190,Highlander,2010-11-12,newselled
+C0191,Phantom,2010-03-23,newselled
+C0192,Neon,2010-07-19,newselled
+C0193,S-Class,2010-09-25,used
+C0194,Liberty,2010-11-03,newselled
+C0195,Cougar,2010-04-29,newselled
+C0196,Montero Sport,2010-09-16,used
+C0197,XC60,2010-11-13,newselled
+C0198,F350,2010-01-27,newselled
+C0199,Grand Am,2011-12-15,newselled
+C0200,Esprit,2011-03-11,used
+C0201,MurciÃ©lago,2011-01-03,newselled
+C0202,Corolla,2011-03-09,newselled
+C0203,Ram Van 3500,2011-04-08,newselled
+C0204,Express 3500,2011-08-07,newselled
+C0205,Venza,2011-01-20,newselled
+C0206,Express 2500,2011-12-17,newselled
+C0207,Tribute,2011-07-17,newselled
+C0208,Jetta,2011-04-20,newselled
+C0209,E-Series,2011-06-19,used
+C0210,Starion,2011-11-03,newselled
+C0211,Cobalt SS,2011-03-26,newselled
+C0212,Galant,2011-09-06,newselled
+C0213,GTI,2011-10-18,used
+C0214,GX,2011-08-20,newselled
+C0215,Impala,2011-04-09,newselled
+C0216,MX-6,2011-07-10,newselled
+C0217,G37,2011-03-21,used
+C0218,ES,2011-08-05,newselled
+C0219,E-Class,2011-11-21,newselled
+C0220,Exige,2011-09-03,newselled
+C0221,Odyssey,2011-03-26,newselled
+C0222,Skylark,2011-03-10,newselled
+C0223,Genesis Coupe,2011-06-18,newselled
+C0224,Mustang,2011-03-14,newselled
+C0225,Explorer,2011-10-06,newselled
+C0226,Daewoo Kalos,2011-05-02,newselled
+C0227,Prius,2011-11-12,newselled
+C0228,Cultus,2011-03-05,newselled
+C0229,F350,2011-11-18,used
+C0230,RX-7,2011-05-10,newselled
+C0231,Reno,2011-07-06,newselled
+C0232,Vitara,2011-04-10,newselled
+C0233,GS,2011-02-07,newselled
+C0234,Ram 3500,2011-11-24,newselled
+C0235,Ranger,2011-09-25,newselled
+C0236,F350,2011-04-18,newselled
+C0237,A8,2011-09-25,newselled
+C0238,Grand Marquis,2011-02-02,newselled
+C0239,Cordia,2011-03-15,newselled
+C0240,Bravada,2011-06-13,newselled
+C0241,Rogue,2011-04-13,newselled
+C0242,350Z,2011-02-23,newselled
+C0243,Golf,2011-10-19,newselled
+C0244,Sigma,2011-09-12,newselled
+C0245,Rally Wagon 3500,2011-11-15,newselled
+C0246,Integra,2011-03-24,newselled
+C0247,M3,2011-07-27,newselled
+C0248,Ram Van 3500,2011-04-14,newselled
+C0249,i-Series,2011-04-15,newselled
+C0250,Taurus,2011-07-20,newselled
+C0251,Mark VIII,2011-06-15,newselled
+C0252,Freestar,2011-01-22,newselled
+C0253,Rally Wagon 2500,2011-01-18,newselled
+C0254,Echo,2011-01-15,used
+C0255,Rio,2011-03-20,newselled
+C0256,Camry,2011-09-05,newselled
+C0257,F-Series Super Duty,2011-06-15,newselled
+C0258,Yukon XL 2500,2011-05-09,newselled
+C0259,G25,2011-11-08,used
+C0260,Fillmore,2011-05-28,newselled
+C0261,Corolla,2011-09-16,newselled
+C0262,Altima,2011-05-17,newselled
+C0263,SC,2011-12-27,newselled
+C0264,Continental GTC,2011-09-07,used
+C0265,Q5,2011-03-13,newselled
+C0266,Yukon,2011-05-10,newselled
+C0267,S40,2011-02-05,newselled
+C0268,Sunfire,2011-10-01,newselled
+C0269,F430 Spider,2011-12-07,used
+C0270,XK,2011-03-14,newselled
+C0271,Sedona,2011-12-16,newselled
+C0272,Sierra 3500HD,2011-03-29,newselled
+C0273,Sonoma,2011-07-01,used
+C0274,Sentra,2011-01-11,newselled
+C0275,Reno,2011-01-11,newselled
+C0276,Legacy,2011-04-27,newselled
+C0277,Canyon,2011-06-01,newselled
+C0278,Outback Sport,2011-06-18,newselled
+C0279,Thunderbird,2011-01-08,newselled
+C0280,CR-X,2011-06-30,newselled
+C0281,B-Series Plus,2011-02-15,newselled
+C0282,Caravan,2011-07-09,used
+C0283,Grand Prix,2011-02-12,newselled
+C0284,Escalade ESV,2011-04-11,newselled
+C0285,XK Series,2011-09-09,newselled
+C0286,Coupe Quattro,2011-08-17,newselled
+C0287,Pilot,2011-09-20,newselled
+C0288,Sorento,2011-08-28,newselled
+C0289,Verano,2011-10-01,newselled
+C0290,Bravada,2011-03-17,newselled
+C0291,Reliant,2011-05-08,newselled
+C0292,Savana 2500,2011-11-23,used
+C0293,240,2011-10-23,newselled
+C0294,Prius Plug-in,2011-05-19,newselled
+C0295,E250,2011-05-25,newselled
+C0296,Bravada,2011-05-15,newselled
+C0297,C70,2011-02-18,newselled
+C0298,Enclave,2011-02-19,newselled
+C0299,Maxima,2012-05-17,used
+C0300,Millenia,2012-07-12,newselled
+C0301,X5,2012-04-21,newselled
+C0302,SLX,2012-02-11,newselled
+C0303,R-Class,2012-02-08,newselled
+C0304,Cougar,2012-11-25,newselled
+C0305,Vandura 1500,2012-01-08,newselled
+C0306,Sonata,2012-07-10,newselled
+C0307,Millenia,2012-10-23,used
+C0308,Intrepid,2012-11-25,newselled
+C0309,Savana 1500,2012-02-19,newselled
+C0310,Silverado 3500,2012-02-18,newselled
+C0311,Highlander,2012-09-12,used
+C0312,Venture,2012-06-23,newselled
+C0313,Uplander,2012-01-26,newselled
+C0314,Mustang,2012-07-24,newselled
+C0315,Econoline E250,2012-11-18,used
+C0316,Golf III,2012-09-12,newselled
+C0317,Cayman,2012-10-03,newselled
+C0318,Outlander,2012-10-04,newselled
+C0319,Pathfinder,2012-11-26,newselled
+C0320,Regal,2012-12-09,newselled
+C0321,Thunderbird,2012-02-09,used
+C0322,Ascender,2012-10-02,newselled
+C0323,Quest,2012-11-06,newselled
+C0324,Continental GTC,2012-12-20,newselled
+C0325,Park Avenue,2012-05-28,newselled
+C0326,Patriot,2012-08-07,newselled
+C0327,9000,2012-07-30,used
+C0328,Lumina,2012-03-16,newselled
+C0329,Town Car,2012-10-31,newselled
+C0330,F-Series,2012-08-30,newselled
+C0331,CC,2012-07-23,newselled
+C0332,Grand Prix,2012-12-24,newselled
+C0333,Exige,2012-08-09,newselled
+C0334,Skyhawk,2012-10-22,newselled
+C0335,F150,2012-07-26,newselled
+C0336,Oasis,2012-09-15,used
+C0337,Rio,2012-06-08,newselled
+C0338,Suburban 2500,2012-10-05,newselled
+C0339,CTS-V,2012-01-17,used
+C0340,Veracruz,2012-01-25,newselled
+C0341,Camry,2012-09-25,used
+C0342,STS,2012-10-25,newselled
+C0343,Dakota Club,2012-07-16,newselled
+C0344,RX,2012-05-13,used
+C0345,Galant,2012-07-12,newselled
+C0346,Safari,2012-02-16,newselled
+C0347,B-Series,2012-02-02,newselled
+C0348,Boxster,2012-05-10,newselled
+C0349,200,2012-08-23,newselled
+C0350,Pathfinder,2012-07-11,newselled
+C0351,Mazda6,2012-08-24,newselled
+C0352,S80,2012-12-15,newselled
+C0353,Vandura G1500,2012-10-10,newselled
+C0354,Stratus,2012-11-02,newselled
+C0355,CL-Class,2012-06-01,newselled
+C0356,CR-V,2012-06-11,used
+C0357,Avanti,2012-11-17,newselled
+C0358,Magnum,2012-03-15,newselled
+C0359,Scoupe,2012-09-03,newselled
+C0360,Amanti,2012-07-12,newselled
+C0361,Yukon XL 1500,2012-12-18,newselled
+C0362,Beretta,2012-04-22,newselled
+C0363,Sequoia,2012-02-29,newselled
+C0364,XJ,2012-01-31,newselled
+C0365,CTS-V,2012-05-08,used
+C0366,S4,2012-07-12,newselled
+C0367,Terraza,2012-12-20,newselled
+C0368,Escape,2012-01-09,newselled
+C0369,Grand Voyager,2012-06-18,newselled
+C0370,3 Series,2012-09-20,newselled
+C0371,Avalon,2012-02-02,newselled
+C0372,Sorento,2012-07-08,newselled
+C0373,626,2012-05-01,used
+C0374,Trooper,2012-07-06,newselled
+C0375,Aerostar,2012-10-02,newselled
+C0376,Ram Wagon B350,2012-03-21,newselled
+C0377,DeVille,2012-08-12,newselled
+C0378,LS,2012-03-26,newselled
+C0379,Safari,2012-03-21,newselled
+C0380,Vandura G3500,2012-11-15,used
+C0381,Golf III,2012-12-21,newselled
+C0382,Corvette,2012-04-24,newselled
+C0383,MX-6,2012-04-18,newselled
+C0384,88,2012-02-14,newselled
+C0385,Pilot,2012-10-02,newselled
+C0386,Passat,2012-12-27,newselled
+C0387,Altima,2012-05-29,used
+C0388,Legend,2012-02-01,newselled
+C0389,Mariner,2012-12-24,newselled
+C0390,Sunbird,2012-12-07,newselled
+C0391,Mirage,2012-05-31,newselled
+C0392,Esprit,2012-10-20,newselled
+C0393,EX,2012-05-25,newselled
+C0394,6 Series,2012-05-29,used
+C0395,B-Series,2012-10-13,newselled
+C0396,Viper,2012-04-15,newselled
+C0397,Ranger,2012-03-24,newselled
+C0398,Explorer,2012-09-17,newselled
+C0399,Corvette,2013-08-24,newselled
+C0400,Grand Am,2013-03-21,newselled
+C0401,E-Series,2013-04-06,used
+C0402,LX,2013-07-08,newselled
+C0403,J,2013-05-15,newselled
+C0404,Avalanche 2500,2013-10-19,newselled
+C0405,Miata MX-5,2013-08-20,newselled
+C0406,Rodeo,2013-08-31,newselled
+C0407,Navigator,2013-01-08,newselled
+C0408,C-Class,2013-02-20,used
+C0409,Sonata,2013-05-08,newselled
+C0410,Silhouette,2013-06-29,newselled
+C0411,Windstar,2013-11-18,newselled
+C0412,F-Series Super Duty,2013-07-03,newselled
+C0413,B-Series Plus,2013-12-13,newselled
+C0414,GL-Class,2013-07-18,newselled
+C0415,Ranger,2013-11-29,used
+C0416,7 Series,2013-07-28,newselled
+C0417,Element,2013-03-29,newselled
+C0418,Ranger,2013-04-21,newselled
+C0419,Cooper,2013-02-23,newselled
+C0420,Dakota,2013-07-23,newselled
+C0421,Fox,2013-01-01,newselled
+C0422,Regal,2013-05-18,used
+C0423,Astro,2013-12-10,newselled
+C0424,Town Car,2013-01-22,newselled
+C0425,Vandura 2500,2013-10-13,newselled
+C0426,Elantra,2013-08-10,newselled
+C0427,5-Sep,2013-06-29,newselled
+C0428,Silhouette,2013-01-11,newselled
+C0429,Caliber,2013-08-06,used
+C0430,Grand Cherokee,2013-04-15,newselled
+C0431,Pajero,2013-08-19,newselled
+C0432,Town & Country,2013-12-01,used
+C0433,Wrangler,2013-07-07,newselled
+C0434,4Runner,2013-04-18,used
+C0435,LeSabre,2013-03-27,newselled
+C0436,Type 2,2013-06-21,used
+C0437,E-Class,2013-07-27,newselled
+C0438,B-Series,2013-01-15,newselled
+C0439,Expo,2013-02-19,newselled
+C0440,Sunfire,2013-06-13,newselled
+C0441,Land Cruiser,2013-04-19,used
+C0442,Corrado,2013-01-31,newselled
+C0443,Sable,2013-04-11,used
+C0444,626,2013-09-10,newselled
+C0445,FJ Cruiser,2013-08-27,newselled
+C0446,Town Car,2013-05-07,newselled
+C0447,Bonneville,2013-03-30,newselled
+C0448,Civic,2013-07-16,used
+C0449,E250,2013-03-27,newselled
+C0450,Exige,2013-03-28,used
+C0451,SLS-Class,2013-12-10,newselled
+C0452,Grand Prix,2013-04-23,newselled
+C0453,RDX,2013-04-02,newselled
+C0454,Marauder,2013-07-16,newselled
+C0455,Rio,2013-12-21,newselled
+C0456,Yukon XL 2500,2013-06-17,newselled
+C0457,400E,2013-03-27,newselled
+C0458,Sephia,2013-05-14,newselled
+C0459,QX,2013-12-16,newselled
+C0460,H1,2013-01-07,used
+C0461,Blazer,2013-10-28,newselled
+C0462,LR3,2013-12-16,used
+C0463,Z4,2013-06-25,newselled
+C0464,Cirrus,2013-05-17,newselled
+C0465,Frontier,2013-08-12,newselled
+C0466,Caravan,2013-01-19,newselled
+C0467,228,2013-02-01,newselled
+C0468,Z4,2013-08-15,newselled
+C0469,IS,2013-11-19,newselled
+C0470,Avalanche 1500,2013-12-09,newselled
+C0471,Cordia,2013-03-14,newselled
+C0472,Suburban 2500,2013-07-18,used
+C0473,Sable,2013-07-29,newselled
+C0474,Coupe Quattro,2013-06-13,used
+C0475,57,2013-07-26,newselled
+C0476,3500 Club Coupe,2013-02-07,newselled
+C0477,300M,2013-02-15,newselled
+C0478,LX,2013-07-02,newselled
+C0479,Cougar,2013-01-08,newselled
+C0480,Leone,2013-10-29,newselled
+C0481,Golf,2013-06-01,newselled
+C0482,SLK-Class,2013-04-20,newselled
+C0483,S-Class,2013-10-23,newselled
+C0484,APV,2013-08-06,newselled
+C0485,RDX,2013-06-21,newselled
+C0486,Grand Marquis,2013-02-04,used
+C0487,E150,2013-09-23,newselled
+C0488,SL-Class,2013-01-14,newselled
+C0489,Wrangler,2013-11-07,newselled
+C0490,Mazda3,2013-07-15,newselled
+C0491,Camaro,2013-01-08,newselled
+C0492,Blazer,2013-03-11,newselled
+C0493,Ridgeline,2013-11-23,newselled
+C0494,Liberty,2013-10-07,newselled
+C0495,X-Type,2013-05-20,newselled
+C0496,Cooper Countryman,2013-05-06,newselled
+C0497,Montero,2013-10-07,newselled
+C0498,Explorer,2013-01-11,newselled
+C0499,V8,2014-03-20,newselled
+C0500,QX,2014-06-17,newselled
+C0501,Savana 3500,2014-01-16,newselled
+C0502,300ZX,2014-07-27,newselled
+C0503,Fury,2014-08-15,used
+C0504,Continental,2014-02-25,newselled
+C0505,CR-V,2014-01-10,newselled
+C0506,Discovery Series II,2014-03-23,newselled
+C0507,Sonoma Club Coupe,2014-05-22,newselled
+C0508,626,2014-05-17,newselled
+C0509,1500,2014-08-10,newselled
+C0510,Escalade,2014-08-28,newselled
+C0511,LeMans,2014-10-15,newselled
+C0512,Riviera,2014-11-01,newselled
+C0513,9000,2014-02-12,newselled
+C0514,Protege,2014-10-21,newselled
+C0515,S-Class,2014-05-21,newselled
+C0516,DTS,2014-05-17,newselled
+C0517,Tacoma,2014-07-21,newselled
+C0518,Jetta III,2014-05-24,newselled
+C0519,Navigator,2014-03-23,newselled
+C0520,DTS,2014-11-11,newselled
+C0521,Freelander,2014-05-23,newselled
+C0522,M-Class,2014-05-02,newselled
+C0523,riolet,2014-04-11,newselled
+C0524,i-MiEV,2014-11-20,newselled
+C0525,SX4,2014-12-03,newselled
+C0526,Golf,2014-11-07,newselled
+C0527,CL-Class,2014-07-27,newselled
+C0528,Tacoma,2014-11-05,newselled
+C0529,XK Series,2014-12-28,newselled
+C0530,Savana 3500,2014-03-22,newselled
+C0531,Tracker,2014-05-06,newselled
+C0532,Rodeo Sport,2014-06-18,newselled
+C0533,Galant,2014-10-29,newselled
+C0534,Boxster,2014-09-08,newselled
+C0535,Escort,2014-04-27,newselled
+C0536,CR-V,2014-07-24,newselled
+C0537,Z3,2014-12-23,newselled
+C0538,GTO,2014-02-10,newselled
+C0539,Continental Flying Spur,2014-01-05,newselled
+C0540,9-4X,2014-06-01,used
+C0541,Eclipse,2014-07-25,newselled
+C0542,RL,2014-03-23,newselled
+C0543,Ranger,2014-07-06,newselled
+C0544,I,2014-09-06,newselled
+C0545,T100,2014-08-26,newselled
+C0546,CLS-Class,2014-04-20,newselled
+C0547,MX-5,2014-03-15,newselled
+C0548,Legend,2014-02-21,used
+C0549,Corvette,2014-07-06,newselled
+C0550,Bonneville,2014-04-01,newselled
+C0551,Econoline E150,2014-01-01,newselled
+C0552,Pajero,2014-02-23,newselled
+C0553,Imperial,2014-10-29,newselled
+C0554,Grand Am,2014-11-09,newselled
+C0555,Raider,2014-01-31,newselled
+C0556,GT500,2014-04-11,newselled
+C0557,Fox,2014-03-29,newselled
+C0558,Tempo,2014-12-13,newselled
+C0559,MX-6,2014-10-02,newselled
+C0560,E250,2014-05-26,newselled
+C0561,Odyssey,2014-02-27,newselled
+C0562,Navigator,2014-09-03,used
+C0563,Gallardo,2014-08-31,newselled
+C0564,Galant,2014-01-29,newselled
+C0565,Commander,2014-06-16,used
+C0566,Dakota,2014-05-02,newselled
+C0567,Legacy,2014-02-11,newselled
+C0568,Savana 1500,2014-03-04,newselled
+C0569,Continental Flying Spur,2014-03-03,newselled
+C0570,FX,2014-01-25,newselled
+C0571,Range Rover,2014-08-25,newselled
+C0572,Fortwo,2014-02-12,newselled
+C0573,Quest,2014-05-27,newselled
+C0574,B-Series,2014-06-11,used
+C0575,E250,2014-05-05,newselled
+C0576,CLS-Class,2014-06-09,newselled
+C0577,Alcyone SVX,2014-08-15,used
+C0578,F450,2014-02-18,newselled
+C0579,F450,2014-01-12,newselled
+C0580,G6,2014-08-17,newselled
+C0581,6 Series,2014-10-12,newselled
+C0582,MKT,2014-12-04,used
+C0583,Avenger,2014-10-16,newselled
+C0584,Montero,2014-07-19,newselled
+C0585,Montero,2014-02-02,newselled
+C0586,Express 2500,2014-11-13,used
+C0587,rio,2014-04-16,newselled
+C0588,Terraza,2014-09-01,newselled
+C0589,Skylark,2014-09-18,used
+C0590,QX56,2014-09-10,newselled
+C0591,SLX,2014-03-21,newselled
+C0592,Durango,2014-09-04,newselled
+C0593,Escalade,2014-01-07,newselled
+C0594,Highlander,2014-03-13,newselled
+C0595,Avalon,2014-11-10,newselled
+C0596,Chariot,2014-09-13,newselled
+C0597,Express,2014-11-08,newselled
+C0598,A3,2014-12-30,used
+C0599,Edge,2015-11-11,newselled
+C0600,Th!nk,2015-01-16,newselled
+C0601,Challenger,2015-10-20,used
+C0602,Lancer,2015-02-09,newselled
+C0603,A6,2015-08-09,newselled
+C0604,Navigator L,2015-01-25,newselled
+C0605,745,2015-12-16,newselled
+C0606,Voyager,2015-06-27,used
+C0607,Silverado 2500,2015-10-04,newselled
+C0608,LR3,2015-04-21,newselled
+C0609,Viper,2015-04-08,newselled
+C0610,Spectra,2015-09-14,newselled
+C0611,Metro,2015-02-02,used
+C0612,Veracruz,2015-11-12,newselled
+C0613,Escalade,2015-03-14,newselled
+C0614,E350,2015-11-06,newselled
+C0615,D250 Club,2015-04-05,newselled
+C0616,Mazda6,2015-04-04,used
+C0617,Escort,2015-06-10,newselled
+C0618,900,2015-09-10,newselled
+C0619,A8,2015-10-23,newselled
+C0620,XT,2015-04-30,newselled
+C0621,Daewoo Magnus,2015-03-26,used
+C0622,LHS,2015-01-09,newselled
+C0623,F150,2015-04-17,newselled
+C0624,C30,2015-04-15,newselled
+C0625,Suburban 2500,2015-03-08,newselled
+C0626,Arnage,2015-11-02,used
+C0627,Diamante,2015-10-21,newselled
+C0628,Countach,2015-08-24,newselled
+C0629,911,2015-08-21,newselled
+C0630,Chariot,2015-03-15,newselled
+C0631,M5,2015-02-01,newselled
+C0632,62,2015-06-19,used
+C0633,Esprit,2015-03-17,newselled
+C0634,F250,2015-08-02,newselled
+C0635,Daewoo Lacetti,2015-07-09,newselled
+C0636,Escort,2015-03-23,newselled
+C0637,S-Type,2015-03-02,newselled
+C0638,S8,2015-01-31,used
+C0639,Azure,2015-12-04,newselled
+C0640,Wrangler,2015-03-11,newselled
+C0641,E-Series,2015-03-12,newselled
+C0642,Gallardo,2015-06-24,newselled
+C0643,2500,2015-12-04,newselled
+C0644,Maxima,2015-06-18,used
+C0645,Mirage,2015-10-11,newselled
+C0646,Voyager,2015-12-24,newselled
+C0647,Truck,2015-09-26,newselled
+C0648,Paseo,2015-06-13,newselled
+C0649,Grand Am,2015-12-24,newselled
+C0650,Sienna,2015-07-15,used
+C0651,Elantra,2015-02-26,newselled
+C0652,Frontier,2015-07-15,newselled
+C0653,Tacoma Xtra,2015-02-09,newselled
+C0654,H2,2015-12-16,newselled
+C0655,Mustang,2015-10-24,newselled
+C0656,ZDX,2015-09-11,used
+C0657,Elan,2015-04-21,newselled
+C0658,CT,2015-02-26,newselled
+C0659,Datsun/Nissan Z-car,2015-09-05,newselled
+C0660,350Z,2015-04-26,newselled
+C0661,Z4 M,2015-12-16,newselled
+C0662,Ram Wagon B250,2015-09-25,newselled
+C0663,Milan,2015-05-25,newselled
+C0664,Envoy,2015-06-12,newselled
+C0665,Rally Wagon 1500,2015-03-24,newselled
+C0666,Firebird Formula,2015-11-18,newselled
+C0667,Karif,2015-12-02,newselled
+C0668,Jetta,2015-02-09,newselled
+C0669,1000,2015-06-14,newselled
+C0670,Sonoma Club Coupe,2015-09-07,newselled
+C0671,Outback,2015-01-21,newselled
+C0672,Jetta III,2015-06-26,newselled
+C0673,Canyon,2015-09-20,newselled
+C0674,Dakota Club,2015-04-16,newselled
+C0675,A8,2015-05-08,newselled
+C0676,GX,2015-02-18,newselled
+C0677,QX56,2015-05-08,newselled
+C0678,Viper,2015-12-13,newselled
+C0679,Mirage,2015-03-17,newselled
+C0680,Savana 1500,2015-02-03,newselled
+C0681,Viper,2015-01-14,newselled
+C0682,Expedition,2015-11-04,used
+C0683,Canyon,2015-08-16,newselled
+C0684,Countryman,2015-11-02,newselled
+C0685,Legacy,2015-02-21,newselled
+C0686,Sienna,2015-06-27,newselled
+C0687,Cabriolet,2015-10-18,used
+C0688,Land Cruiser,2015-01-01,newselled
+C0689,Mountaineer,2015-05-11,newselled
+C0690,NSX,2015-04-14,newselled
+C0691,Odyssey,2015-07-13,newselled
+C0692,Mariner,2015-09-11,newselled
+C0693,Neon,2015-05-16,newselled
+C0694,Probe,2015-08-11,newselled
+C0695,GranSport,2015-11-10,newselled
+C0696,Rondo,2015-09-24,newselled
+C0697,Savana 1500,2015-09-09,used
+C0698,Mini Cooper S,2015-01-05,newselled
+C0699,Q7,2016-12-01,newselled
+C0700,Corvette,2016-01-05,newselled
+C0701,Mustang,2016-08-11,newselled
+C0702,Tribute,2016-09-03,newselled
+C0703,745,2016-09-30,newselled
+C0704,Mark LT,2016-05-23,newselled
+C0705,Suburban 2500,2016-11-03,newselled
+C0706,Fox,2016-08-31,newselled
+C0707,Trooper,2016-07-02,newselled
+C0708,Sierra 2500,2016-04-21,newselled
+C0709,Grand Prix,2016-05-17,newselled
+C0710,G,2016-09-29,newselled
+C0711,E150,2016-05-15,newselled
+C0712,Montana SV6,2016-07-07,newselled
+C0713,3 Series,2016-07-12,newselled
+C0714,Discovery,2016-11-06,newselled
+C0715,Colt,2016-08-21,newselled
+C0716,Eclipse,2016-04-19,newselled
+C0717,GTO,2016-02-16,used
+C0718,4Runner,2016-09-01,newselled
+C0719,Thunderbird,2016-03-06,newselled
+C0720,Familia,2016-04-09,newselled
+C0721,Grand Am,2016-12-30,newselled
+C0722,Bravada,2016-04-22,newselled
+C0723,Elantra,2016-03-07,newselled
+C0724,Impreza,2016-08-08,newselled
+C0725,5 Series,2016-08-26,used
+C0726,300SE,2016-05-01,newselled
+C0727,H2,2016-02-16,newselled
+C0728,Cube,2016-01-27,newselled
+C0729,Gallardo,2016-10-24,newselled
+C0730,Grand Prix,2016-07-31,newselled
+C0731,Ram 2500,2016-11-05,newselled
+C0732,Maxima,2016-03-12,newselled
+C0733,Continental,2016-12-23,newselled
+C0734,FJ Cruiser,2016-12-17,newselled
+C0735,Villager,2016-10-03,newselled
+C0736,A6,2016-09-25,newselled
+C0737,62,2016-02-15,newselled
+C0738,Space,2016-06-22,newselled
+C0739,Grand Marquis,2016-11-08,newselled
+C0740,Boxster,2016-10-26,newselled
+C0741,V70,2016-04-08,newselled
+C0742,Avalanche 1500,2016-07-24,newselled
+C0743,RX,2016-06-11,newselled
+C0744,TL,2016-01-02,newselled
+C0745,Beretta,2016-06-20,newselled
+C0746,Fox,2016-08-22,used
+C0747,Econoline E350,2016-09-14,newselled
+C0748,Space,2016-04-20,newselled
+C0749,1000,2016-05-23,newselled
+C0750,S80,2016-06-22,newselled
+C0751,900,2016-05-30,used
+C0752,Fortwo,2016-04-18,newselled
+C0753,GTI,2016-03-21,newselled
+C0754,914,2016-01-17,newselled
+C0755,Protege5,2016-04-30,newselled
+C0756,300D,2016-01-04,used
+C0757,xD,2016-02-07,newselled
+C0758,GTI,2016-11-24,newselled
+C0759,Sprinter,2016-10-01,newselled
+C0760,Sequoia,2016-12-07,newselled
+C0761,Sierra 1500,2016-08-23,newselled
+C0762,F250,2016-11-09,newselled
+C0763,Accent,2016-01-08,newselled
+C0764,Ghost,2016-01-12,newselled
+C0765,Q5,2016-12-28,newselled
+C0766,F-Series,2016-10-28,newselled
+C0767,Villager,2016-09-28,newselled
+C0768,Beretta,2016-09-05,newselled
+C0769,Swift,2016-01-07,newselled
+C0770,Sentra,2016-07-14,newselled
+C0771,XLR,2016-06-11,newselled
+C0772,100,2016-08-23,used
+C0773,Range Rover Sport,2016-05-23,newselled
+C0774,Fiesta,2016-07-09,newselled
+C0775,Talon,2016-01-05,newselled
+C0776,I,2016-11-14,newselled
+C0777,Tracker,2016-10-20,newselled
+C0778,SC,2016-12-04,used
+C0779,T100 Xtra,2016-04-25,newselled
+C0780,Matrix,2016-12-01,newselled
+C0781,350Z,2016-02-14,newselled
+C0782,Arnage,2016-06-17,newselled
+C0783,MDX,2016-12-02,newselled
+C0784,Grand Cherokee,2016-04-16,newselled
+C0785,Highlander,2016-06-25,newselled
+C0786,Ram Van B250,2016-09-14,used
+C0787,Voyager,2016-12-04,newselled
+C0788,IS,2016-05-09,newselled
+C0789,Diamante,2016-02-21,newselled
+C0790,XC90,2016-04-28,newselled
+C0791,Regal,2016-02-15,newselled
+C0792,M-Class,2016-01-15,newselled
+C0793,New Beetle,2016-01-13,newselled
+C0794,Safari,2016-05-22,used
+C0795,Land Cruiser,2016-07-20,newselled
+C0796,3-Sep,2016-11-24,newselled
+C0797,Legend,2016-11-20,newselled
+C0798,Panamera,2016-01-20,newselled
+C0799,Land Cruiser,2017-09-08,newselled
+C0800,Grand Am,2017-03-07,newselled
+C0801,Accent,2017-05-07,newselled
+C0802,626,2017-10-24,newselled
+C0803,riolet,2017-01-18,newnotselled
+C0804,Jetta,2017-08-17,newnotselled
+C0805,3500,2017-01-19,newnotselled
+C0806,Taurus,2017-08-26,newnotselled
+C0807,Alcyone SVX,2017-05-19,newnotselled
+C0808,911,2017-12-02,newnotselled
+C0809,Accent,2017-10-31,newnotselled
+C0810,1500,2017-10-10,newnotselled
+C0811,Viper,2017-08-09,newnotselled
+C0812,CL,2017-07-24,newnotselled
+C0813,MR2,2017-04-08,newnotselled
+C0814,SL-Class,2017-08-04,newnotselled
+C0815,9-7X,2017-11-07,newnotselled
+C0816,RX Hybrid,2017-03-26,newnotselled
+C0817,Rio,2017-06-03,newnotselled
+C0818,Dakota,2017-11-20,newselled
+C0819,Forenza,2017-03-31,newselled
+C0820,xD,2017-11-11,newselled
+C0821,Express 1500,2017-01-06,newselled
+C0822,Compass,2017-11-04,newselled
+C0823,Coachbuilder,2017-09-24,newselled
+C0824,Express 3500,2017-10-19,newselled
+C0825,E-Class,2017-08-12,newselled
+C0826,F-Series,2017-01-31,newselled
+C0827,Intrepid,2017-09-03,newselled
+C0828,3500,2017-08-14,newselled
+C0829,Galant,2017-06-20,newselled
+C0830,X-Type,2017-07-29,newselled
+C0831,Rio,2017-10-19,newselled
+C0832,Q,2017-04-15,newselled
+C0833,Bravada,2017-09-22,newselled
+C0834,Monza,2017-11-26,newselled
+C0835,Canyon,2017-03-28,newselled
+C0836,760,2017-08-16,newselled
+C0837,F-Series,2017-03-13,newselled
+C0838,QX,2017-04-05,newselled
+C0839,Titan,2017-11-11,newselled
+C0840,Prelude,2017-08-09,newselled
+C0841,Camry,2017-09-10,newselled
+C0842,TT,2017-05-20,newselled
+C0843,Starion,2017-08-07,newselled
+C0844,Rio,2017-05-18,newselled
+C0845,Sierra 3500,2017-05-08,newselled
+C0846,Familia,2017-06-08,newselled
+C0847,Explorer,2017-05-12,newselled
+C0848,Odyssey,2017-04-29,newselled
+C0849,DB9,2017-05-07,newselled
+C0850,Suburban 1500,2017-12-10,newselled
+C0851,S2000,2017-12-03,newselled
+C0852,Caravan,2017-08-16,newselled
+C0853,ES,2017-06-08,newselled
+C0854,Skylark,2017-02-03,newselled
+C0855,XLR,2017-04-10,newselled
+C0856,Thunderbird,2017-09-11,newselled
+C0857,944,2017-10-14,newselled
+C0858,CR-V,2017-12-28,newselled
+C0859,9000,2017-10-16,newselled
+C0860,SLR McLaren,2017-01-04,newselled
+C0861,2500,2017-12-04,newselled
+C0862,Integra,2017-09-05,newselled
+C0863,Laser,2017-11-18,newselled
+C0864,Camaro,2017-05-24,newselled
+C0865,Liberty,2017-11-10,newselled
+C0866,Diamante,2017-12-11,newselled
+C0867,325,2017-11-20,newselled
+C0868,GTO,2017-07-05,newselled
+C0869,Justy,2017-08-23,newselled
+C0870,911,2017-08-28,newselled
+C0871,Grand Marquis,2017-11-16,newselled
+C0872,968,2017-11-06,newselled
+C0873,Savana 2500,2017-01-10,newselled
+C0874,Golf,2017-05-22,newselled
+C0875,Venture,2017-09-06,newselled
+C0876,C-Class,2017-08-31,newselled
+C0877,M Roadster,2017-03-30,newselled
+C0878,7 Series,2017-05-11,newselled
+C0879,LX,2017-02-26,newselled
+C0880,Savana 1500,2017-11-08,newselled
+C0881,626,2017-02-13,newselled
+C0882,Continental GT,2017-04-26,newselled
+C0883,Ram Van 2500,2017-07-21,newselled
+C0884,Tribeca,2017-11-19,newselled
+C0885,Safari,2017-06-20,newselled
+C0886,GranSport,2017-04-09,newselled
+C0887,QX,2017-03-02,newselled
+C0888,Silverado 2500,2017-08-30,newselled
+C0889,S60,2017-08-01,newselled
+C0890,Corvette,2017-03-21,newselled
+C0891,Fox,2017-01-03,newselled
+C0892,Daewoo Kalos,2017-01-28,newselled
+C0893,RAV4,2017-04-28,used
+C0894,Rio,2017-10-10,newselled
+C0895,900,2017-02-12,newselled
+C0896,GTI,2017-09-04,newselled
+C0897,Altima,2017-07-23,newselled
+C0898,Summit,2017-11-04,newselled
+C0899,900,2018-10-04,newselled
+C0900,Taurus,2018-01-08,newselled
+C0901,RX,2018-04-17,newselled
+C0902,G,2018-11-08,used
+C0903,F150,2018-09-11,newselled
+C0904,Mustang,2018-12-05,newselled
+C0905,Grand Marquis,2018-12-15,newselled
+C0906,RX-8,2018-06-28,newselled
+C0907,Cayenne,2018-05-05,newselled
+C0908,Suburban 2500,2018-09-08,newselled
+C0909,Diamante,2018-10-04,newselled
+C0910,Traverse,2018-03-16,newselled
+C0911,CL,2018-04-05,newselled
+C0912,FF,2018-03-22,newselled
+C0913,SJ,2018-12-17,used
+C0914,B-Series,2018-06-03,newselled
+C0915,Solara,2018-12-24,newselled
+C0916,Justy,2018-06-21,newselled
+C0917,Amigo,2018-07-17,newselled
+C0918,Mustang,2018-04-20,newselled
+C0919,XC90,2018-06-17,newselled
+C0920,Spyder,2018-06-24,newselled
+C0921,E-Series,2018-02-08,newselled
+C0922,Quest,2018-10-04,newselled
+C0923,Town Car,2018-11-16,newselled
+C0924,Cayman,2018-11-07,newselled
+C0925,Brougham,2018-04-24,newselled
+C0926,Camaro,2018-01-25,newselled
+C0927,Suburban 1500,2018-02-01,newselled
+C0928,Monte Carlo,2018-05-16,newselled
+C0929,Thunderbird,2018-01-05,newselled
+C0930,VUE,2018-07-28,used
+C0931,Sportage,2018-08-21,newselled
+C0932,Legend,2018-03-18,newselled
+C0933,Mazda3,2018-10-20,newselled
+C0934,Escalade ESV,2018-02-23,newselled
+C0935,M,2018-03-04,newselled
+C0936,Laser,2018-11-19,newselled
+C0937,Titan,2018-01-11,newselled
+C0938,8 Series,2018-02-20,newselled
+C0939,TSX,2018-11-04,newselled
+C0940,Marquis,2018-10-03,newselled
+C0941,Esprit,2018-12-24,newselled
+C0942,Veracruz,2018-02-25,newselled
+C0943,Grand Marquis,2018-10-29,newselled
+C0944,Blazer,2018-07-17,newselled
+C0945,Tiburon,2018-09-20,newselled
+C0946,Mariner,2018-08-19,newselled
+C0947,Cutlass Supreme,2018-09-07,newselled
+C0948,Jimmy,2018-10-04,newselled
+C0949,Mirage,2018-03-15,newselled
+C0950,A8,2018-07-01,newselled
+C0951,Dakota Club,2018-06-13,newselled
+C0952,Rodeo Sport,2018-09-11,newselled
+C0953,FX,2018-07-26,newselled
+C0954,Flex,2018-07-26,newselled
+C0955,Civic,2018-05-02,newselled
+C0956,Ram,2018-10-25,newselled
+C0957,A4,2018-05-21,newselled
+C0958,911,2018-10-28,newselled
+C0959,RL,2018-04-01,newselled
+C0960,Uplander,2018-10-15,newselled
+C0961,Montero,2018-09-03,newselled
+C0962,Grand Am,2018-06-26,newselled
+C0963,iQ,2018-05-12,newselled
+C0964,SL-Class,2018-07-11,newselled
+C0965,Baja,2018-09-08,newselled
+C0966,Golf,2018-02-18,newselled
+C0967,Villager,2018-06-14,newselled
+C0968,Gallardo,2018-10-17,newselled
+C0969,TL,2018-03-28,newnotselled
+C0970,Cutlass Supreme,2018-03-23,newnotselled
+C0971,Legacy,2018-02-11,newnotselled
+C0972,Leone,2018-05-20,newnotselled
+C0973,Mariner,2018-08-16,newnotselled
+C0974,Sierra 2500,2018-03-14,newnotselled
+C0975,Skylark,2018-07-12,newnotselled
+C0976,Acadia,2018-11-07,newnotselled
+C0977,GTI,2018-02-09,newnotselled
+C0978,Sentra,2018-03-09,newnotselled
+C0979,Precis,2018-08-22,newnotselled
+C0980,S10,2018-09-03,newselled
+C0981,B-Series Plus,2018-11-09,newselled
+C0982,Escalade,2018-04-15,newnotselled
+C0983,A6,2018-07-25,newnotselled
+C0984,LeSabre,2018-03-09,newnotselled
+C0985,RS6,2018-07-28,newnotselled
+C0986,Ram 1500,2018-12-07,newnotselled
+C0987,riolet,2018-05-02,newselled
+C0988,929,2018-12-27,newselled
+C0989,Rodeo,2018-11-03,newselled
+C0990,DB9,2018-02-13,newselled
+C0991,Grand Cherokee,2018-01-06,newselled
+C0992,A8,2018-12-22,newnotselled
+C0993,Boxster,2018-12-18,newnotselled
+C0994,Econoline E350,2018-09-11,newnotselled
+C0995,MX-5,2018-10-25,newnotselled
+C0996,Fox,2018-06-30,newnotselled
+C0997,Cayenne,2018-05-06,newnotselled
+C0998,Mighty Max,2018-08-04,newnotselled
