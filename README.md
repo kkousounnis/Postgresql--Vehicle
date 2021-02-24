@@ -4,6 +4,8 @@
 
 ### Summary of Database
 
+PostgreSQL-Java Database Development vehicle trade, repair, maintenance , database analysis and implementation of BCNF normalization rules, complex queries and triggers implementation on database both in SQL and Java language.
+
 **For detailed analyze of Database open Database Analysis pdf**
 
 ![image](https://user-images.githubusercontent.com/39504405/95201398-90ea1880-07e8-11eb-8644-044a3413604d.png)
